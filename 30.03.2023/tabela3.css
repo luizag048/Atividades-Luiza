@@ -1,0 +1,7 @@
+table, th, td{
+    border: solid black 3px;
+}
+
+table{
+    width: 500px;
+}

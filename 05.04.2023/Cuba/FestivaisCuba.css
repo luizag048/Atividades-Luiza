@@ -1,0 +1,18 @@
+body{
+    background-color:lightskyblue ;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+
+p{
+    font-size: larger;
+    text-align: justify;
+}
+.imagem3{
+    margin: auto 410px;
+}
+.h11{
+    text-align: justify;
+}

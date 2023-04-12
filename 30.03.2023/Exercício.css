@@ -1,0 +1,13 @@
+table, th, td{
+    border: solid white 2px;
+    text-align: center;
+    border-spacing: 0cap;
+    border-collapse: collapse;
+}
+th{
+    background-color: hotpink;
+}
+
+table{
+    width: 500px;
+}

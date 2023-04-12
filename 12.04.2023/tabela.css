@@ -1,0 +1,11 @@
+table, th, td{
+    border: solid black 2px;
+    text-align: center;
+    border-collapse: collapse;
+}
+th{
+    background-color: lightpink;
+}
+td{
+    background-color:seashell;
+}
